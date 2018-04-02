@@ -1,9 +1,14 @@
-conf:store a <Kanban-Board-Repo-Store> ;
-    <pathOfGitRepo> "https://github.com/fxj9a/kbb.git/store" ; # Set the path to the repository that contains the files .
-    <origin> "https://github.com/fxj9a/kbb.git" . # Optional a git repo that will be cloned into dir given in line above on startup.
+@prefix conf: <https://github.com/fxj9a/kbb> .
+@prefix quit: <http://quit.aksw.org/vocab/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
 
+conf:store a quit:QuitStore ;
+  quit:allowNewGraphs 1 ;
+  quit:pathOfGitRepo "../store" ;
+  quit:defaultBranch "master" .
 
-conf:example a <Graph> ; # Define a Graph resource for a named graph
-    <graphUri> <https://github.com/fxj9a/kbb/tree/master/store> ; # Set the URI of named graph
-    <isVersioned> 1 ; # Defaults to True, future work
-    <graphFile> "file.nq" . # Set the filename
+conf:exampleGraph a quit:Graph ;
+  quit:graphUri <https://github.com/fxj9a/kbb/tree/master/store> ;
+  quit:isVersioned 1 ;
+  quit:graphFile "file.nq" .
