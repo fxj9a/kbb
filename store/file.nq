@@ -1,1 +1,47 @@
+#board template
+_:b0 <file:///C:/Fuseki/myDataset/vocab/Board> "board1" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b0 <file:///C:/Fuseki/myDataset/vocab/UserAllowed> "user1" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b0 <file:///C:/Fuseki/myDataset/vocab/UserAllowed> "user2" <https://github.com/fxj9a/kbb/tree/master/store> .
 
+_:b8 <file:///C:/Fuseki/myDataset/vocab/Board> "board2" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b8 <file:///C:/Fuseki/myDataset/vocab/UserAllowed> "user3" <https://github.com/fxj9a/kbb/tree/master/store> .
+
+#column template
+_:b1 <file:///C:/Fuseki/myDataset/vocab/Column> "column1" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b1 <file:///C:/Fuseki/myDataset/vocab/onBoard> "board1" <https://github.com/fxj9a/kbb/tree/master/store> .
+
+_:b10 <file:///C:/Fuseki/myDataset/vocab/Column> "column1" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b10 <file:///C:/Fuseki/myDataset/vocab/onBoard> "board2" <https://github.com/fxj9a/kbb/tree/master/store> .
+
+_:b9 <file:///C:/Fuseki/myDataset/vocab/Column> "column2" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b9 <file:///C:/Fuseki/myDataset/vocab/onBoard> "board2" <https://github.com/fxj9a/kbb/tree/master/store> .
+
+#task template
+_:b2 <file:///C:/Fuseki/myDataset/vocab/Task> "task1" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b2 <file:///C:/Fuseki/myDataset/vocab/onColumn> "column1" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b2 <file:///C:/Fuseki/myDataset/vocab/onBoard> "board1" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b2 <file:///C:/Fuseki/myDataset/vocab/Priority> "prio" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b2 <file:///C:/Fuseki/myDataset/vocab/Description> "description" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b2 <file:///C:/Fuseki/myDataset/vocab/Author> "user1" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b2 <file:///C:/Fuseki/myDataset/vocab/Tags> "tags" <https://github.com/fxj9a/kbb/tree/master/store> .
+
+_:b6 <file:///C:/Fuseki/myDataset/vocab/Task> "task2" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b6 <file:///C:/Fuseki/myDataset/vocab/onBoard> "board2" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b6 <file:///C:/Fuseki/myDataset/vocab/onColumn> "column1" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b6 <file:///C:/Fuseki/myDataset/vocab/Priority> "prio" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b6 <file:///C:/Fuseki/myDataset/vocab/Description> "description" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b6 <file:///C:/Fuseki/myDataset/vocab/Author> "user3" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b6 <file:///C:/Fuseki/myDataset/vocab/Tags> "tags" <https://github.com/fxj9a/kbb/tree/master/store> .
+
+_:b7 <file:///C:/Fuseki/myDataset/vocab/Task> "task3" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b7 <file:///C:/Fuseki/myDataset/vocab/onBoard> "board2" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b7 <file:///C:/Fuseki/myDataset/vocab/onColumn> "column2" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b7 <file:///C:/Fuseki/myDataset/vocab/Priority> "prio" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b7 <file:///C:/Fuseki/myDataset/vocab/Description> "description" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b7 <file:///C:/Fuseki/myDataset/vocab/Author> "user2" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b7 <file:///C:/Fuseki/myDataset/vocab/Tags> "tags" <https://github.com/fxj9a/kbb/tree/master/store> .
+
+#user template
+_:b3 <file:///C:/Fuseki/myDataset/vocab/User> "user1" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b4 <file:///C:/Fuseki/myDataset/vocab/User> "user2" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b5 <file:///C:/Fuseki/myDataset/vocab/User> "user3" <https://github.com/fxj9a/kbb/tree/master/store> .
