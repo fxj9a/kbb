@@ -1,0 +1,42 @@
+@prefix kanban: <file:///C:/Fuseki/myDataset/vocab/>
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+kanban:Board a rdfs:Class;
+  rdfs:label "Kanban Board" ;
+  rdfs:comment "Information about Board" .
+
+kanban:UserAllowed a rdfs:Property ;
+  rdfs:comment "User who is allowed" .  
+
+kanban:BoardAuthor a rdfs:Property ;
+  rdfs:comment "Author of Task" .
+
+kanban:Column a rdfs:Class;
+  rdfs:label "Column on Board" ;
+  rdfs:comment "Information about Column" .
+
+kanban:onBoard a rdfs:Property ;
+  rdfs:comment "speciefies Board column belongs to" .
+
+kanban:Task a rdfs:Class;
+  rdfs:label "Task on Column" ;
+  rdfs:comment "Information about Task" .
+
+kanban:onColumn a rdfs:Property ;
+  rdfs:comment "Name of Task" .
+
+kanban:Priority a rdfs:Property ;
+  rdfs:comment "Priority of smth" .
+
+kanban:Description a rdfs:Property ;
+  rdfs:comment "Description of smth" .
+
+kanban:TaskAuthor a rdfs:Property ;
+  rdfs:comment "Author of Task" .
+
+kanban:Tags a rdfs:Property ;
+  rdfs:comment "Tags of smth" .
+  
+kanban:User a rdfs:Class;
+  rdfs:label "User" ;
+  rdfs:comment "Information about User" .
