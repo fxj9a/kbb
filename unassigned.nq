@@ -1,3 +1,6 @@
-_:N59055e5298db45b08a412f37e935e446 <file:///C:/Fuseki/myDataset/vocab/Board> "board5" _:Nbd44042aaabd4d97b7f54129a024b91b .
-_:Ne3e839a9709444378d580710609853d8 <file:///C:/Fuseki/myDataset/vocab/Column> "archive" _:Nbd44042aaabd4d97b7f54129a024b91b .
-_:Ne3e839a9709444378d580710609853d8 <file:///C:/Fuseki/myDataset/vocab/onBoard> "board5" _:Nbd44042aaabd4d97b7f54129a024b91b .
+_:N32a218860fc44060a2fb86be76b52d1d <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "user1" _:N62693c8382894a6b849a059a8ea03e70 .
+_:N32a218860fc44060a2fb86be76b52d1d <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Column> "archive" _:N62693c8382894a6b849a059a8ea03e70 .
+_:N32a218860fc44060a2fb86be76b52d1d <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "board5" _:N62693c8382894a6b849a059a8ea03e70 .
+_:N4075bd7dfc224644b98579557077c258 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Board> "board5" _:N62693c8382894a6b849a059a8ea03e70 .
+_:N4075bd7dfc224644b98579557077c258 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "user1" _:N62693c8382894a6b849a059a8ea03e70 .
+_:N4075bd7dfc224644b98579557077c258 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#UserAllowed> "user1" _:N62693c8382894a6b849a059a8ea03e70 .
