@@ -8,7 +8,7 @@ conf:store a quit:QuitStore ;
   quit:pathOfGitRepo "../store" ;
   quit:defaultBranch "master" .
 
-conf:exampleGraph a quit:Graph ;
+conf:file a <Graph> ;
   quit:graphUri <https://github.com/fxj9a/kbb/tree/master/store> ;
   quit:isVersioned 1 ;
   quit:graphFile "file.nq" .
