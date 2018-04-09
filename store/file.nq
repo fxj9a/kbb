@@ -11,6 +11,7 @@
 
 
 
+<test> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#User> "user5" <https://github.com/fxj9a/kbb/tree/master/store> .
 <urn:a> <urn:b> <urn:c> <https://github.com/fxj9a/kbb/tree/master/store> .
 <urn:ex:a> <urn:ex:b> <urn:ex:c> <https://github.com/fxj9a/kbb/tree/master/store> .
 _:Naac393b738eb4616b6148132ef50152c <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#User> "user5" <https://github.com/fxj9a/kbb/tree/master/store> .
