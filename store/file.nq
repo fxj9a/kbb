@@ -12,6 +12,7 @@
 
 
 _:N000ea83bd6884d58a32c65804fc9184e <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#UserAllowed> "user4" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:N328c52b2645f4ec29cf7422a8ed6a724 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#User> "user5" <https://github.com/fxj9a/kbb/tree/master/store> .
 _:N8b8c96a3046842b4b675d42e36ab230e <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "user2" <https://github.com/fxj9a/kbb/tree/master/store> .
 _:N8b8c96a3046842b4b675d42e36ab230e <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Column> "archive" <https://github.com/fxj9a/kbb/tree/master/store> .
 _:N8b8c96a3046842b4b675d42e36ab230e <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "board3" <https://github.com/fxj9a/kbb/tree/master/store> .
