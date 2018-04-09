@@ -5,10 +5,10 @@
 
 conf:store a quit:QuitStore ;
   quit:allowNewGraphs 1 ;
-  quit:pathOfGitRepo "../store" ;
+  quit:pathOfGitRepo "." ;
   quit:defaultBranch "master" .
 
 conf:example a quit:Graph ;
   quit:graphUri <https://github.com/fxj9a/kbb/tree/master/store> ;
   quit:isVersioned 1 ;
-  quit:graphFile "file.nq" .
+  quit:graphFile "store/file.nq" .
