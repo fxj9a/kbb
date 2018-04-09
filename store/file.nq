@@ -1,69 +1,70 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+<urn:ex:a> <urn:ex:b> <urn:ex:c> <https://github.com/fxj9a/kbb/tree/master/store> .
 _:b0 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Board> "board1" <https://github.com/fxj9a/kbb/tree/master/store> .
 _:b0 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "user1" <https://github.com/fxj9a/kbb/tree/master/store> .
 _:b0 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#UserAllowed> "user1" <https://github.com/fxj9a/kbb/tree/master/store> .
 _:b0 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#UserAllowed> "user2" <https://github.com/fxj9a/kbb/tree/master/store> .
-
-_:b8 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Board> "board2" <https://github.com/fxj9a/kbb/tree/master/store> .
-_:b8 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "user3" <https://github.com/fxj9a/kbb/tree/master/store> .
-_:b8 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#UserAllowed> "user3" <https://github.com/fxj9a/kbb/tree/master/store> .
-
 _:b1 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Column> "column1" <https://github.com/fxj9a/kbb/tree/master/store> .
 _:b1 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "board1" <https://github.com/fxj9a/kbb/tree/master/store> .
-
-_:b11 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Column> "archive" <https://github.com/fxj9a/kbb/tree/master/store> .
-_:b11 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "board1" <https://github.com/fxj9a/kbb/tree/master/store> .
-
-_:b12 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Column> "archive" <https://github.com/fxj9a/kbb/tree/master/store> .
-_:b12 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "board2" <https://github.com/fxj9a/kbb/tree/master/store> .
-
 _:b10 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Column> "column1" <https://github.com/fxj9a/kbb/tree/master/store> .
 _:b10 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "board2" <https://github.com/fxj9a/kbb/tree/master/store> .
-
-_:b9 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Column> "column2" <https://github.com/fxj9a/kbb/tree/master/store> .
-_:b9 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "board2" <https://github.com/fxj9a/kbb/tree/master/store> .
-
-_:b2 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Task> "task1" <https://github.com/fxj9a/kbb/tree/master/store> .
-_:b2 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onColumn> "column1" <https://github.com/fxj9a/kbb/tree/master/store> .
-_:b2 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "board1" <https://github.com/fxj9a/kbb/tree/master/store> .
-_:b2 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Priority> "prio" <https://github.com/fxj9a/kbb/tree/master/store> .
-_:b2 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Description> "description" <https://github.com/fxj9a/kbb/tree/master/store> .
-_:b2 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#TaskAuthor> "author of task1 on b1c1" <https://github.com/fxj9a/kbb/tree/master/store> .
-_:b2 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Tags> "tags" <https://github.com/fxj9a/kbb/tree/master/store> .
-
-_:b13 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Task> "task2" <https://github.com/fxj9a/kbb/tree/master/store> .
-_:b13 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "board1" <https://github.com/fxj9a/kbb/tree/master/store> .
-_:b13 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onColumn> "column1" <https://github.com/fxj9a/kbb/tree/master/store> .
-_:b13 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Priority> "prio" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b11 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Column> "archive" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b11 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "board1" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b12 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Column> "archive" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b12 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "board2" <https://github.com/fxj9a/kbb/tree/master/store> .
 _:b13 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Description> "description" <https://github.com/fxj9a/kbb/tree/master/store> .
-_:b13 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#TaskAuthor> "author of task2 on b1c1" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b13 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Priority> "prio" <https://github.com/fxj9a/kbb/tree/master/store> .
 _:b13 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Tags> "tag1" <https://github.com/fxj9a/kbb/tree/master/store> .
 _:b13 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Tags> "tag2" <https://github.com/fxj9a/kbb/tree/master/store> .
-
+_:b13 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Task> "task2" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b13 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#TaskAuthor> "author of task2 on b1c1" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b13 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "board1" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b13 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onColumn> "column1" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b14 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Description> "description" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b14 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Priority> "prio" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b14 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Tags> "tags" <https://github.com/fxj9a/kbb/tree/master/store> .
 _:b14 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Task> "task3" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b14 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#TaskAuthor> "author of task3 on b1a" <https://github.com/fxj9a/kbb/tree/master/store> .
 _:b14 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "board1" <https://github.com/fxj9a/kbb/tree/master/store> .
 _:b14 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onColumn> "archive" <https://github.com/fxj9a/kbb/tree/master/store> .
-_:b14 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Priority> "prio" <https://github.com/fxj9a/kbb/tree/master/store> .
-_:b14 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Description> "description" <https://github.com/fxj9a/kbb/tree/master/store> .
-_:b14 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#TaskAuthor> "author of task3 on b1a" <https://github.com/fxj9a/kbb/tree/master/store> .
-_:b14 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Tags> "tags" <https://github.com/fxj9a/kbb/tree/master/store> .
-
-_:b6 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Task> "task2" <https://github.com/fxj9a/kbb/tree/master/store> .
-_:b6 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "board2" <https://github.com/fxj9a/kbb/tree/master/store> .
-_:b6 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onColumn> "column1" <https://github.com/fxj9a/kbb/tree/master/store> .
-_:b6 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Priority> "prio" <https://github.com/fxj9a/kbb/tree/master/store> .
-_:b6 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Description> "description" <https://github.com/fxj9a/kbb/tree/master/store> .
-_:b6 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#TaskAuthor> "author of task2 on b2c1" <https://github.com/fxj9a/kbb/tree/master/store> .
-_:b6 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Tags> "tags" <https://github.com/fxj9a/kbb/tree/master/store> .
-
-_:b7 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Task> "task3" <https://github.com/fxj9a/kbb/tree/master/store> .
-_:b7 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "board2" <https://github.com/fxj9a/kbb/tree/master/store> .
-_:b7 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onColumn> "column2" <https://github.com/fxj9a/kbb/tree/master/store> .
-_:b7 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Priority> "prio" <https://github.com/fxj9a/kbb/tree/master/store> .
-_:b7 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Description> "description" <https://github.com/fxj9a/kbb/tree/master/store> .
-_:b7 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#TaskAuthor> "author of task3 on b2c2" <https://github.com/fxj9a/kbb/tree/master/store> .
-_:b7 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Tags> "tags" <https://github.com/fxj9a/kbb/tree/master/store> .
-
-
+_:b2 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Description> "description" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b2 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Priority> "prio" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b2 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Tags> "tags" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b2 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Task> "task1" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b2 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#TaskAuthor> "author of task1 on b1c1" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b2 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "board1" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b2 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onColumn> "column1" <https://github.com/fxj9a/kbb/tree/master/store> .
 _:b3 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#User> "user1" <https://github.com/fxj9a/kbb/tree/master/store> .
 _:b4 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#User> "user2" <https://github.com/fxj9a/kbb/tree/master/store> .
 _:b5 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#User> "user3" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b6 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Description> "description" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b6 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Priority> "prio" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b6 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Tags> "tags" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b6 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Task> "task2" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b6 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#TaskAuthor> "author of task2 on b2c1" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b6 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "board2" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b6 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onColumn> "column1" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b7 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Description> "description" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b7 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Priority> "prio" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b7 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Tags> "tags" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b7 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Task> "task3" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b7 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#TaskAuthor> "author of task3 on b2c2" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b7 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "board2" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b7 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onColumn> "column2" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b8 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Board> "board2" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b8 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "user3" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b8 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#UserAllowed> "user3" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b9 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Column> "column2" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:b9 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "board2" <https://github.com/fxj9a/kbb/tree/master/store> .
