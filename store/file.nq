@@ -18,10 +18,10 @@ _:Naf8669c380f74a7a8ab728657cbba62c <https://github.com/fxj9a/kbb/tree/master/vo
 _:Nf7606073db7c4ec1a885ac03cf76f85f <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Board> "board3" <https://github.com/fxj9a/kbb/tree/master/store> .
 _:Nf7606073db7c4ec1a885ac03cf76f85f <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "user2" <https://github.com/fxj9a/kbb/tree/master/store> .
 _:Nf7606073db7c4ec1a885ac03cf76f85f <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#UserAllowed> "user2" <https://github.com/fxj9a/kbb/tree/master/store> .
-_:b0 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Board> "board1" <https://github.com/fxj9a/kbb/tree/master/store> .
-_:b0 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "user1" <https://github.com/fxj9a/kbb/tree/master/store> .
-_:b0 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#UserAllowed> "user1" <https://github.com/fxj9a/kbb/tree/master/store> .
-_:b0 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#UserAllowed> "user2" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:Naf8669c380f74a7a8ab728657cbba62c <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Board> "board1" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:Naf8669c380f74a7a8ab728657cbba62c <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "user1" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:Naf8669c380f74a7a8ab728657cbba62c <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#UserAllowed> "user1" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:Naf8669c380f74a7a8ab728657cbba62c <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#UserAllowed> "user2" <https://github.com/fxj9a/kbb/tree/master/store> .
 _:b1 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "user1" <https://github.com/fxj9a/kbb/tree/master/store> .
 _:b1 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Column> "column1" <https://github.com/fxj9a/kbb/tree/master/store> .
 _:b1 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "board1" <https://github.com/fxj9a/kbb/tree/master/store> .
