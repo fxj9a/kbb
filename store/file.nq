@@ -228,6 +228,12 @@ _:Ne71670c57c4242f78efce6aefccf7831 <https://github.com/fxj9a/kbb/tree/master/vo
 _:Ne842c8219dd5434f828dd20704c47aad <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Board> "d" <https://github.com/fxj9a/kbb/tree/master/store> .
 _:Ne842c8219dd5434f828dd20704c47aad <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "default" <https://github.com/fxj9a/kbb/tree/master/store> .
 _:Ne842c8219dd5434f828dd20704c47aad <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#UserAllowed> "default" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:Ne907e2267ccb4aa7b480247e26fe65db <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Board> "ds" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:Ne907e2267ccb4aa7b480247e26fe65db <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "default" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:Ne907e2267ccb4aa7b480247e26fe65db <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#UserAllowed> "default" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:Ned584258f26144eabdbf439096820c7f <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "default" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:Ned584258f26144eabdbf439096820c7f <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Column> "archive" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:Ned584258f26144eabdbf439096820c7f <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "ds" <https://github.com/fxj9a/kbb/tree/master/store> .
 _:Nf75faba6526042ac818b5b1fbc8fe273 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#User> "user66" <https://github.com/fxj9a/kbb/tree/master/store> .
 _:Nf7606073db7c4ec1a885ac03cf76f85f <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Board> "board3" <https://github.com/fxj9a/kbb/tree/master/store> .
 _:Nf7606073db7c4ec1a885ac03cf76f85f <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "user2" <https://github.com/fxj9a/kbb/tree/master/store> .
