@@ -51,3 +51,11 @@
 <https://github.com/ef570ca4-cf35-4e21-be84-635ee1ae187c> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "user2" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/ef570ca4-cf35-4e21-be84-635ee1ae187c> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Column> "column2" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/ef570ca4-cf35-4e21-be84-635ee1ae187c> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "board1" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:N32d0f13d607d43da9ac3fb0f346b4f23 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "default" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:N32d0f13d607d43da9ac3fb0f346b4f23 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Description> "no description yet" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:N32d0f13d607d43da9ac3fb0f346b4f23 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Priority> "3" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:N32d0f13d607d43da9ac3fb0f346b4f23 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Tags> "" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:N32d0f13d607d43da9ac3fb0f346b4f23 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Task> "Pulp Friction" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:N32d0f13d607d43da9ac3fb0f346b4f23 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#TaskAuthor> "[Bot]" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:N32d0f13d607d43da9ac3fb0f346b4f23 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "Movies to Watch" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:N32d0f13d607d43da9ac3fb0f346b4f23 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onColumn> "Watched: Hated it" <https://github.com/fxj9a/kbb/tree/master/store> .
