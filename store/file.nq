@@ -59,6 +59,12 @@ _:N32d0f13d607d43da9ac3fb0f346b4f23 <https://github.com/fxj9a/kbb/tree/master/vo
 _:N32d0f13d607d43da9ac3fb0f346b4f23 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#TaskAuthor> "[Bot]" <https://github.com/fxj9a/kbb/tree/master/store> .
 _:N32d0f13d607d43da9ac3fb0f346b4f23 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "Movies to Watch" <https://github.com/fxj9a/kbb/tree/master/store> .
 _:N32d0f13d607d43da9ac3fb0f346b4f23 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onColumn> "Watched: Hated it" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:N5389c4b2bffc463a9927b0e525d6a81a <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "default" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:N5389c4b2bffc463a9927b0e525d6a81a <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Column> "archive" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:N5389c4b2bffc463a9927b0e525d6a81a <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "sdsd" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:N9c555712ac274bdcb3b57a04aca2188e <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Board> "sdsd" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:N9c555712ac274bdcb3b57a04aca2188e <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "default" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:N9c555712ac274bdcb3b57a04aca2188e <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#UserAllowed> "default" <https://github.com/fxj9a/kbb/tree/master/store> .
 _:Nb0b3d35eb55a4f1bb088423de94c2f02 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "default" <https://github.com/fxj9a/kbb/tree/master/store> .
 _:Nb0b3d35eb55a4f1bb088423de94c2f02 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Description> "no description yet" <https://github.com/fxj9a/kbb/tree/master/store> .
 _:Nb0b3d35eb55a4f1bb088423de94c2f02 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Priority> "3" <https://github.com/fxj9a/kbb/tree/master/store> .
