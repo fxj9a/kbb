@@ -24,6 +24,9 @@ _:N0d58f9c135194c07b58345ca93a21c08 <https://github.com/fxj9a/kbb/tree/master/vo
 _:N12b4e5eec80e4b61ad833b2ffad6283c <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Board> "asdasd" <https://github.com/fxj9a/kbb/tree/master/store> .
 _:N12b4e5eec80e4b61ad833b2ffad6283c <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "default" <https://github.com/fxj9a/kbb/tree/master/store> .
 _:N12b4e5eec80e4b61ad833b2ffad6283c <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#UserAllowed> "default" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:N12f9d32bfc0b4b21a8b2d00ddadc0859 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "default" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:N12f9d32bfc0b4b21a8b2d00ddadc0859 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Column> "sad" <https://github.com/fxj9a/kbb/tree/master/store> .
+_:N12f9d32bfc0b4b21a8b2d00ddadc0859 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "Movies to Watch" <https://github.com/fxj9a/kbb/tree/master/store> .
 _:N17391494c885482189b0fb80f5eaa746 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Board> "dsa" <https://github.com/fxj9a/kbb/tree/master/store> .
 _:N17391494c885482189b0fb80f5eaa746 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "default" <https://github.com/fxj9a/kbb/tree/master/store> .
 _:N17391494c885482189b0fb80f5eaa746 <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#UserAllowed> "default" <https://github.com/fxj9a/kbb/tree/master/store> .
