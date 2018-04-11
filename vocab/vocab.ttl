@@ -40,3 +40,13 @@ kanban:Tags a rdfs:Property ;
 kanban:User a rdfs:Class;
   rdfs:label "User" ;
   rdfs:comment "Information about User" .
+
+kanban:Comment a rdfs:Class;
+  rdfs:label "Comment" ;
+  rdfs:comment "Comment on task" .
+
+kanban:CommentAuthor a rdfs:Property ;
+  rdfs:comment "Author of the comment" .
+
+kanban:onTask a rdfs:Property ;
+  rdfs:comment "Task the comment is on" .
