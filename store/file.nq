@@ -10,7 +10,6 @@
 
 
 
-
 <https://github.com/14110b51-43bf-4cca-8c48-c1a831d857e5> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "user5" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/14110b51-43bf-4cca-8c48-c1a831d857e5> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Column> "column4" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/14110b51-43bf-4cca-8c48-c1a831d857e5> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "board5" <https://github.com/fxj9a/kbb/tree/master/store> .
