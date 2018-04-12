@@ -43,6 +43,7 @@
 <https://github.com/6f84a9ae-46bf-4d16-9968-d10e15828137> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onTask> "task2" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/6f84a9ae-46bf-4d16-9968-d10e15828137> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onTask> "task2" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/79f6a92c-6f6a-4344-a8d0-739f8d0b61cd> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#User> "a" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/838d03c2-3f76-4e35-a95b-87ef627d2df5> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#User> "b" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/85b0e7d5-90f1-4e20-812c-d9ae02992c8e> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "default" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/85b0e7d5-90f1-4e20-812c-d9ae02992c8e> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Description> "description" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/85b0e7d5-90f1-4e20-812c-d9ae02992c8e> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Priority> "3" <https://github.com/fxj9a/kbb/tree/master/store> .
