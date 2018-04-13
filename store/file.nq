@@ -10,6 +10,7 @@
 
 
 
+<https://github.com/0e3cf7ee-12b5-4a3a-8769-f788574d7ac9> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#User> "" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/12d8c9e5-5568-48eb-a30c-2ca345bb1ee7> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#User> "a" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/14110b51-43bf-4cca-8c48-c1a831d857e5> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "user5" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/14110b51-43bf-4cca-8c48-c1a831d857e5> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Column> "column4" <https://github.com/fxj9a/kbb/tree/master/store> .
