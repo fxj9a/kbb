@@ -11,7 +11,6 @@
 
 
 
-
 <https://github.com/120e6ffe-9cff-43f3-aa2b-1c5ec0f623b7> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "user2" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/120e6ffe-9cff-43f3-aa2b-1c5ec0f623b7> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Column> "archive" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/120e6ffe-9cff-43f3-aa2b-1c5ec0f623b7> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "board6" <https://github.com/fxj9a/kbb/tree/master/store> .
