@@ -2,7 +2,13 @@
 <https://github.com/18598772-c625-4d79-833f-78d6fbc5d7d6> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "aMOPel" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/18598772-c625-4d79-833f-78d6fbc5d7d6> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Column> "archive" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/18598772-c625-4d79-833f-78d6fbc5d7d6> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "kanban" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/57bca323-4f83-4dff-8c44-339e8c5c0054> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Board> "kanban" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/57bca323-4f83-4dff-8c44-339e8c5c0054> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "aMOPel" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/57bca323-4f83-4dff-8c44-339e8c5c0054> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#UserAllowed> "aMOPel" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/a90d72be-0c4a-40a1-b36a-44c94092502d> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Board> "kanban" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/a90d72be-0c4a-40a1-b36a-44c94092502d> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "aMOPel" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/a90d72be-0c4a-40a1-b36a-44c94092502d> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#UserAllowed> "aMOPel" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/b38f0ccd-cbfa-4338-9a7d-9f96330d2f42> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "aMOPel" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/b38f0ccd-cbfa-4338-9a7d-9f96330d2f42> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Column> "archive" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/b38f0ccd-cbfa-4338-9a7d-9f96330d2f42> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "kanban" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/d6f5f0d4-1295-4051-9439-299d5fbc6f4f> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#User> "aMOPel" <https://github.com/fxj9a/kbb/tree/master/store> .
