@@ -2,6 +2,9 @@
 <https://github.com/05e45c4c-5457-4db9-ba9b-696311125e74> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "rtzrtz" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/05e45c4c-5457-4db9-ba9b-696311125e74> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Column> "archive" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/05e45c4c-5457-4db9-ba9b-696311125e74> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "asdasd" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/07e7abdd-9d38-4d2c-af31-ba7cf914ca56> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "err" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/07e7abdd-9d38-4d2c-af31-ba7cf914ca56> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Column> "wqwe" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/07e7abdd-9d38-4d2c-af31-ba7cf914ca56> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "wewe" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/0d98c561-b1a3-4e58-a6e4-b0f17b0e0b8a> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "rtzrtz" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/0d98c561-b1a3-4e58-a6e4-b0f17b0e0b8a> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Column> "archive" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/0d98c561-b1a3-4e58-a6e4-b0f17b0e0b8a> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "dsaads" <https://github.com/fxj9a/kbb/tree/master/store> .
