@@ -52,6 +52,14 @@
 <https://github.com/7fa0ac81-16b5-4b47-ae8d-c61112af53d7> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "rtzrtz" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/7fa0ac81-16b5-4b47-ae8d-c61112af53d7> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Column> "sdfsdf" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/7fa0ac81-16b5-4b47-ae8d-c61112af53d7> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "fdsfsf" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/81be33a1-2d63-492f-a470-f4228cadd512> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "rtzrtz" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/81be33a1-2d63-492f-a470-f4228cadd512> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Description> "fdhgfhgfh" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/81be33a1-2d63-492f-a470-f4228cadd512> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Priority> "3" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/81be33a1-2d63-492f-a470-f4228cadd512> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Tags> "hjgjghj" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/81be33a1-2d63-492f-a470-f4228cadd512> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Task> "dfgdfgde" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/81be33a1-2d63-492f-a470-f4228cadd512> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#TaskAuthor> "rtzrtz" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/81be33a1-2d63-492f-a470-f4228cadd512> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "fdsfsf" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/81be33a1-2d63-492f-a470-f4228cadd512> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onColumn> "sdfsdf" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/8a7b4ec5-e4c5-4700-ae86-98ab3575da01> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Board> "asdasd" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/8a7b4ec5-e4c5-4700-ae86-98ab3575da01> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "sadads" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/8a7b4ec5-e4c5-4700-ae86-98ab3575da01> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#UserAllowed> "sadads" <https://github.com/fxj9a/kbb/tree/master/store> .
