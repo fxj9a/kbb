@@ -95,7 +95,7 @@
 <https://github.com/5f699abb-0287-4868-be98-a8d54b67713f> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Task> "haski" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/5f699abb-0287-4868-be98-a8d54b67713f> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#TaskAuthor> "moppel" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/5f699abb-0287-4868-be98-a8d54b67713f> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "mopels board" <https://github.com/fxj9a/kbb/tree/master/store> .
-<https://github.com/5f699abb-0287-4868-be98-a8d54b67713f> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onColumn> "colcol" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/5f699abb-0287-4868-be98-a8d54b67713f> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onColumn> "colcolcol" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/6e696c54-7b86-4173-94e1-85265648f40b> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "yaboi" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/6e696c54-7b86-4173-94e1-85265648f40b> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Column> "ok" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/6e696c54-7b86-4173-94e1-85265648f40b> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "ok" <https://github.com/fxj9a/kbb/tree/master/store> .
