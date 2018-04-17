@@ -312,6 +312,9 @@
 <https://github.com/e0212640-340e-4c34-a401-a43a9f22438e> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Board> "yes" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/e0212640-340e-4c34-a401-a43a9f22438e> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "jaDasStimmt" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/e0212640-340e-4c34-a401-a43a9f22438e> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#UserAllowed> "jaDasStimmt" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/e0936a48-cdf4-4e4b-b65b-90e468a34e49> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "aMOPel" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/e0936a48-cdf4-4e4b-b65b-90e468a34e49> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Column> "wowee" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/e0936a48-cdf4-4e4b-b65b-90e468a34e49> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "sec b" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/e7b47f2e-1395-4d29-80b4-f1e267e4bbfe> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#User> "ok" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/e7c4ca85-9128-4287-ade2-d7ce52e6b965> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Board> "sec b" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/e7c4ca85-9128-4287-ade2-d7ce52e6b965> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "aMOPel" <https://github.com/fxj9a/kbb/tree/master/store> .
