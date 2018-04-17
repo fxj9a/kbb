@@ -81,6 +81,9 @@
 <https://github.com/421db1ef-61ae-48a6-a8d8-2099294b90c4> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "Leon" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/421db1ef-61ae-48a6-a8d8-2099294b90c4> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Column> "archive" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/421db1ef-61ae-48a6-a8d8-2099294b90c4> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "test" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/440cde49-48f3-453e-98f0-28d2a34343ec> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "rtzrtz" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/440cde49-48f3-453e-98f0-28d2a34343ec> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Column> "dfgghjgjhgj" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/440cde49-48f3-453e-98f0-28d2a34343ec> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "fdsfsf" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/4ab6656a-3ae1-47dc-a23a-a059a6f6a125> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "rtzrtz" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/4ab6656a-3ae1-47dc-a23a-a059a6f6a125> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Column> "archive" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/4ab6656a-3ae1-47dc-a23a-a059a6f6a125> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "fdsfsf" <https://github.com/fxj9a/kbb/tree/master/store> .
