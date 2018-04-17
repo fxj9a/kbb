@@ -61,6 +61,9 @@
 <https://github.com/78b8dbb2-46eb-4026-842b-983f56600d8e> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "aMOPel" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/78b8dbb2-46eb-4026-842b-983f56600d8e> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Column> "colcolcol" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/78b8dbb2-46eb-4026-842b-983f56600d8e> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "mopels board" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/79a2a3be-7542-4130-8502-bf1f22f81b01> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "jaDasStimmt" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/79a2a3be-7542-4130-8502-bf1f22f81b01> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Column> "archive" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/79a2a3be-7542-4130-8502-bf1f22f81b01> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "yes" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/7fa0ac81-16b5-4b47-ae8d-c61112af53d7> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "rtzrtz" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/7fa0ac81-16b5-4b47-ae8d-c61112af53d7> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Column> "sdfsdf" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/7fa0ac81-16b5-4b47-ae8d-c61112af53d7> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "fdsfsf" <https://github.com/fxj9a/kbb/tree/master/store> .
@@ -118,6 +121,9 @@
 <https://github.com/b83f853b-e7cd-42b8-b136-2abce38fce8b> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "moppel" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/b83f853b-e7cd-42b8-b136-2abce38fce8b> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Column> "colcol" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/b83f853b-e7cd-42b8-b136-2abce38fce8b> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "mopels board" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/bc1b7503-d4e4-408c-a14f-ea02c535dd02> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Board> "yes" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/bc1b7503-d4e4-408c-a14f-ea02c535dd02> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "jaDasStimmt" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/bc1b7503-d4e4-408c-a14f-ea02c535dd02> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#UserAllowed> "jaDasStimmt" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/c3c91b1c-8cc9-479a-8689-5a297bc925e4> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#User> "aMOPel" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/d611a297-b709-45e0-a898-4f0883892615> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#User> "yeah" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/d9ad187d-9707-46eb-a9c6-a3cc02b19653> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#User> "moppel" <https://github.com/fxj9a/kbb/tree/master/store> .
