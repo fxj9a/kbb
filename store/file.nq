@@ -175,6 +175,7 @@
 <https://github.com/6e696c54-7b86-4173-94e1-85265648f40b> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "ok" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/6e73a0ba-0f82-45d0-bf35-7e93a0ead6f9> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Board> "dd" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/6e73a0ba-0f82-45d0-bf35-7e93a0ead6f9> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "user1" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/6e73a0ba-0f82-45d0-bf35-7e93a0ead6f9> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#UserAllowed> "aMOPel" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/6e73a0ba-0f82-45d0-bf35-7e93a0ead6f9> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#UserAllowed> "user1" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/6eb0bd68-0abb-4974-8eb2-2a5c75d99584> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "user1" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/6eb0bd68-0abb-4974-8eb2-2a5c75d99584> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Description> "yes" <https://github.com/fxj9a/kbb/tree/master/store> .
