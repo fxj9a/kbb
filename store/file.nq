@@ -270,6 +270,9 @@
 <https://github.com/bc1b7503-d4e4-408c-a14f-ea02c535dd02> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Board> "yes" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/bc1b7503-d4e4-408c-a14f-ea02c535dd02> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "jaDasStimmt" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/bc1b7503-d4e4-408c-a14f-ea02c535dd02> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#UserAllowed> "jaDasStimmt" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/bc89ca4c-61d8-48c1-b806-47d8968f00a4> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "aMOPel" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/bc89ca4c-61d8-48c1-b806-47d8968f00a4> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Column> "okdesu" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/bc89ca4c-61d8-48c1-b806-47d8968f00a4> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "yesboard" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/c3c91b1c-8cc9-479a-8689-5a297bc925e4> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#User> "aMOPel" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/c5a301c1-47b4-45ea-8b11-cf2823588bf1> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Board> "New Board" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/c5a301c1-47b4-45ea-8b11-cf2823588bf1> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "aMOPel" <https://github.com/fxj9a/kbb/tree/master/store> .
