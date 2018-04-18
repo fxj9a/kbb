@@ -325,6 +325,14 @@
 <https://github.com/aa4d6d36-494f-402e-a294-97213220e90d> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#TaskAuthor> "user1" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/aa4d6d36-494f-402e-a294-97213220e90d> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "dd" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/aa4d6d36-494f-402e-a294-97213220e90d> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onColumn> "query123" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/aa7ba3df-e77b-40ee-8d29-2c2591c562b3> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "aMOPel" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/aa7ba3df-e77b-40ee-8d29-2c2591c562b3> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Description> "https://www.youtube.com/playlist?list=PLcDeYEFE5kzV13A47XGIuYMcifp-Vv8Wb" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/aa7ba3df-e77b-40ee-8d29-2c2591c562b3> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Priority> "1" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/aa7ba3df-e77b-40ee-8d29-2c2591c562b3> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Tags> "" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/aa7ba3df-e77b-40ee-8d29-2c2591c562b3> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Task> "Listen to good music" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/aa7ba3df-e77b-40ee-8d29-2c2591c562b3> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#TaskAuthor> "aMOPel" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/aa7ba3df-e77b-40ee-8d29-2c2591c562b3> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "New Board" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/aa7ba3df-e77b-40ee-8d29-2c2591c562b3> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onColumn> "New Column" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/ac5f755d-418e-4f05-87fb-70102daf01ac> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Board> "fdsfsf" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/ac5f755d-418e-4f05-87fb-70102daf01ac> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "rtzrtz" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/ac5f755d-418e-4f05-87fb-70102daf01ac> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#UserAllowed> "rtzrtz" <https://github.com/fxj9a/kbb/tree/master/store> .
