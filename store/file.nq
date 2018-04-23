@@ -61,6 +61,9 @@
 <https://github.com/18075511-e5b8-4021-af0d-49cb28bc7662> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "Anja" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/18075511-e5b8-4021-af0d-49cb28bc7662> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Column> "archive" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/18075511-e5b8-4021-af0d-49cb28bc7662> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "Uni" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/1956ada8-622a-4a1d-b980-808b9a12b2ea> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "aMOPel" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/1956ada8-622a-4a1d-b980-808b9a12b2ea> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Column> "Fail 👽" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/1956ada8-622a-4a1d-b980-808b9a12b2ea> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "New Board" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/20f34af9-8f32-4f2a-9c5a-58f651ebeb6d> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Board> "test" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/20f34af9-8f32-4f2a-9c5a-58f651ebeb6d> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "Leon" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/20f34af9-8f32-4f2a-9c5a-58f651ebeb6d> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#UserAllowed> "Leon" <https://github.com/fxj9a/kbb/tree/master/store> .
