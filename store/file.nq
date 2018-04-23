@@ -430,7 +430,7 @@
 <https://github.com/dc8ecdd6-03c9-4bb2-9b30-9bd5c55ffc53> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Task> "New" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/dc8ecdd6-03c9-4bb2-9b30-9bd5c55ffc53> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#TaskAuthor> "aMOPel" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/dc8ecdd6-03c9-4bb2-9b30-9bd5c55ffc53> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "New Board" <https://github.com/fxj9a/kbb/tree/master/store> .
-<https://github.com/dc8ecdd6-03c9-4bb2-9b30-9bd5c55ffc53> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onColumn> "New Column" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/dc8ecdd6-03c9-4bb2-9b30-9bd5c55ffc53> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onColumn> "Fail 👽" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/dd8cd79b-b40c-4214-8447-3e01bd934ef7> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "okdesu" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/dd8cd79b-b40c-4214-8447-3e01bd934ef7> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Column> "archive" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/dd8cd79b-b40c-4214-8447-3e01bd934ef7> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "[cai" <https://github.com/fxj9a/kbb/tree/master/store> .
