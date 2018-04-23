@@ -343,7 +343,7 @@
 <https://github.com/aa7ba3df-e77b-40ee-8d29-2c2591c562b3> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Task> "Listen to good music" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/aa7ba3df-e77b-40ee-8d29-2c2591c562b3> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#TaskAuthor> "aMOPel" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/aa7ba3df-e77b-40ee-8d29-2c2591c562b3> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "New Board" <https://github.com/fxj9a/kbb/tree/master/store> .
-<https://github.com/aa7ba3df-e77b-40ee-8d29-2c2591c562b3> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onColumn> "New Column" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/aa7ba3df-e77b-40ee-8d29-2c2591c562b3> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onColumn> "Done ✅" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/ac5f755d-418e-4f05-87fb-70102daf01ac> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Board> "fdsfsf" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/ac5f755d-418e-4f05-87fb-70102daf01ac> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "rtzrtz" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/ac5f755d-418e-4f05-87fb-70102daf01ac> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#UserAllowed> "rtzrtz" <https://github.com/fxj9a/kbb/tree/master/store> .
