@@ -257,7 +257,7 @@
 <https://github.com/8716b1bf-70d4-4935-bf52-601d4a250709> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Task> "newtask" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/8716b1bf-70d4-4935-bf52-601d4a250709> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#TaskAuthor> "aMOPel" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/8716b1bf-70d4-4935-bf52-601d4a250709> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "New Board" <https://github.com/fxj9a/kbb/tree/master/store> .
-<https://github.com/8716b1bf-70d4-4935-bf52-601d4a250709> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onColumn> "New Column" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/8716b1bf-70d4-4935-bf52-601d4a250709> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onColumn> "Fail 👽" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/87585da3-5813-47ea-9dbd-5fca90d72b53> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Board> "sec board of da mopel" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/87585da3-5813-47ea-9dbd-5fca90d72b53> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "moppel" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/87585da3-5813-47ea-9dbd-5fca90d72b53> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#UserAllowed> "moppel" <https://github.com/fxj9a/kbb/tree/master/store> .
@@ -401,7 +401,7 @@
 <https://github.com/ca5f49b3-fdc9-4909-95cd-84d9d4e9af3c> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Task> "newtask" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/ca5f49b3-fdc9-4909-95cd-84d9d4e9af3c> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#TaskAuthor> "aMOPel" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/ca5f49b3-fdc9-4909-95cd-84d9d4e9af3c> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "New Board" <https://github.com/fxj9a/kbb/tree/master/store> .
-<https://github.com/ca5f49b3-fdc9-4909-95cd-84d9d4e9af3c> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onColumn> "New Column" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/ca5f49b3-fdc9-4909-95cd-84d9d4e9af3c> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onColumn> "Fail 👽" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/cb9dca6e-7fe6-4cfa-a924-c4a0bfb97d29> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "rtzrtz" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/cb9dca6e-7fe6-4cfa-a924-c4a0bfb97d29> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Description> "dfgdfg" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/cb9dca6e-7fe6-4cfa-a924-c4a0bfb97d29> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Priority> "1" <https://github.com/fxj9a/kbb/tree/master/store> .
