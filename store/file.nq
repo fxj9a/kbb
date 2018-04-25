@@ -1,4 +1,5 @@
 
+
 <https://github.com/2f17ce40-0776-4c22-9d29-dcb125fcc94d> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "moppel" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/2f17ce40-0776-4c22-9d29-dcb125fcc94d> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Column> "archive" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/2f17ce40-0776-4c22-9d29-dcb125fcc94d> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "another one" <https://github.com/fxj9a/kbb/tree/master/store> .
