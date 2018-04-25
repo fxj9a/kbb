@@ -55,14 +55,6 @@
 <https://github.com/a5c653f7-f004-4731-bd09-30fd7262f063> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "moppel" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/a5c653f7-f004-4731-bd09-30fd7262f063> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Column> "archive" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/a5c653f7-f004-4731-bd09-30fd7262f063> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "moppels board" <https://github.com/fxj9a/kbb/tree/master/store> .
-<https://github.com/b48b52f5-4574-4e47-a101-999993fc3b70> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "aMOPel" <https://github.com/fxj9a/kbb/tree/master/store> .
-<https://github.com/b48b52f5-4574-4e47-a101-999993fc3b70> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Description> "gsh" <https://github.com/fxj9a/kbb/tree/master/store> .
-<https://github.com/b48b52f5-4574-4e47-a101-999993fc3b70> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Priority> "1" <https://github.com/fxj9a/kbb/tree/master/store> .
-<https://github.com/b48b52f5-4574-4e47-a101-999993fc3b70> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Tags> "dhgsa" <https://github.com/fxj9a/kbb/tree/master/store> .
-<https://github.com/b48b52f5-4574-4e47-a101-999993fc3b70> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Task> "taskeritos" <https://github.com/fxj9a/kbb/tree/master/store> .
-<https://github.com/b48b52f5-4574-4e47-a101-999993fc3b70> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#TaskAuthor> "moppel" <https://github.com/fxj9a/kbb/tree/master/store> .
-<https://github.com/b48b52f5-4574-4e47-a101-999993fc3b70> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "moppels board" <https://github.com/fxj9a/kbb/tree/master/store> .
-<https://github.com/b48b52f5-4574-4e47-a101-999993fc3b70> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onColumn> "archive" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/c94cc095-c263-4678-96c3-1760f9c4bf71> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Board> "herro, how do i boarrd herre ?" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/c94cc095-c263-4678-96c3-1760f9c4bf71> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "moppel" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/c94cc095-c263-4678-96c3-1760f9c4bf71> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#UserAllowed> "moppel" <https://github.com/fxj9a/kbb/tree/master/store> .
