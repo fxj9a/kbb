@@ -212,6 +212,9 @@
 <https://github.com/6eb0bd68-0abb-4974-8eb2-2a5c75d99584> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#TaskAuthor> "user1" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/6eb0bd68-0abb-4974-8eb2-2a5c75d99584> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "dd" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/6eb0bd68-0abb-4974-8eb2-2a5c75d99584> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onColumn> "query123" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/701cb538-b014-481a-82e7-1b1152600988> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "moppel" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/701cb538-b014-481a-82e7-1b1152600988> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Column> "anocololoco" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/701cb538-b014-481a-82e7-1b1152600988> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "mopels board" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/710d33aa-deca-4977-a63d-c096919fb3ce> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Board> "test" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/710d33aa-deca-4977-a63d-c096919fb3ce> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "Leon" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/710d33aa-deca-4977-a63d-c096919fb3ce> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#UserAllowed> "Leon" <https://github.com/fxj9a/kbb/tree/master/store> .
