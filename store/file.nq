@@ -7,6 +7,9 @@
 <https://github.com/0ccab136-ad2d-412c-8f92-be4d507572ee> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Board> "new board look at me" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/0ccab136-ad2d-412c-8f92-be4d507572ee> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "moppel" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/0ccab136-ad2d-412c-8f92-be4d507572ee> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#UserAllowed> "moppel" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/1821a90b-d061-452c-bb7b-86acee612a39> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "aMOPel" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/1821a90b-d061-452c-bb7b-86acee612a39> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Column> "new column" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/1821a90b-d061-452c-bb7b-86acee612a39> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "adrians Board" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/2dbfb92b-72f0-4d64-b944-1dce495dfa04> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Board> "1 more board" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/2dbfb92b-72f0-4d64-b944-1dce495dfa04> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "moppel" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/2dbfb92b-72f0-4d64-b944-1dce495dfa04> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#UserAllowed> "moppel" <https://github.com/fxj9a/kbb/tree/master/store> .
