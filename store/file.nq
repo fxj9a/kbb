@@ -111,6 +111,9 @@
 <https://github.com/e6603c6b-fb76-4e6f-bbd4-6f026726288e> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "moppel" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/e6603c6b-fb76-4e6f-bbd4-6f026726288e> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Column> "archive" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/e6603c6b-fb76-4e6f-bbd4-6f026726288e> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "new board look at me twice" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/ef4f662d-7df4-444f-af82-ef1694ffe99b> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "aMOPel" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/ef4f662d-7df4-444f-af82-ef1694ffe99b> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Column> "new col (:" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/ef4f662d-7df4-444f-af82-ef1694ffe99b> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "adrians Board" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/f3dbdce8-cbd0-45f8-ac3e-2476d9e96934> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "aMOPel" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/f3dbdce8-cbd0-45f8-ac3e-2476d9e96934> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Description> "this is a test" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/f3dbdce8-cbd0-45f8-ac3e-2476d9e96934> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Priority> "1" <https://github.com/fxj9a/kbb/tree/master/store> .
