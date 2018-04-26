@@ -153,6 +153,9 @@
 <https://github.com/c94cc095-c263-4678-96c3-1760f9c4bf71> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Board> "herro, how do i boarrd herre ?" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/c94cc095-c263-4678-96c3-1760f9c4bf71> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "moppel" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/c94cc095-c263-4678-96c3-1760f9c4bf71> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#UserAllowed> "moppel" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/ca2dc5e1-f828-4379-bc77-ab67f1d722c5> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "moppel" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/ca2dc5e1-f828-4379-bc77-ab67f1d722c5> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Column> "testcolcol" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/ca2dc5e1-f828-4379-bc77-ab67f1d722c5> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "test board" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/cafe4545-24e6-4090-bae4-1c04d408d299> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Board> "adrians Board" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/cafe4545-24e6-4090-bae4-1c04d408d299> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "aMOPel" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/cafe4545-24e6-4090-bae4-1c04d408d299> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#UserAllowed> "aMOPel" <https://github.com/fxj9a/kbb/tree/master/store> .
