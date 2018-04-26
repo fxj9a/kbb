@@ -84,9 +84,6 @@
 <https://github.com/6ac3ca68-77ae-408e-84e4-979655b03545> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#TaskAuthor> "moppel" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/6ac3ca68-77ae-408e-84e4-979655b03545> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "moppels board" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/6ac3ca68-77ae-408e-84e4-979655b03545> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onColumn> "archive" <https://github.com/fxj9a/kbb/tree/master/store> .
-<https://github.com/6b2046be-4938-4320-984e-b67609eb1102> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "moppel" <https://github.com/fxj9a/kbb/tree/master/store> .
-<https://github.com/6b2046be-4938-4320-984e-b67609eb1102> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Column> "very new col yeah" <https://github.com/fxj9a/kbb/tree/master/store> .
-<https://github.com/6b2046be-4938-4320-984e-b67609eb1102> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "test board 2, so creative" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/6e210365-607e-40d9-aae1-15bf984a42f8> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "adrian" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/6e210365-607e-40d9-aae1-15bf984a42f8> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Description> "ok" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/6e210365-607e-40d9-aae1-15bf984a42f8> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Priority> "3" <https://github.com/fxj9a/kbb/tree/master/store> .
