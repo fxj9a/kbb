@@ -137,7 +137,7 @@
 <https://github.com/8733ca24-a7a1-4012-9bd8-cbb748d8e66b> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Task> "1 task" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/8733ca24-a7a1-4012-9bd8-cbb748d8e66b> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#TaskAuthor> "moppel" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/8733ca24-a7a1-4012-9bd8-cbb748d8e66b> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "1 more board" <https://github.com/fxj9a/kbb/tree/master/store> .
-<https://github.com/8733ca24-a7a1-4012-9bd8-cbb748d8e66b> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onColumn> "some col for presentation" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/8733ca24-a7a1-4012-9bd8-cbb748d8e66b> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onColumn> "second column just to show off" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/8c330e3e-e2f3-4abc-ac43-380537d0d7a6> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "moppel" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/8c330e3e-e2f3-4abc-ac43-380537d0d7a6> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Description> "work much more!" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/8c330e3e-e2f3-4abc-ac43-380537d0d7a6> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Priority> "2" <https://github.com/fxj9a/kbb/tree/master/store> .
