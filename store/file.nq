@@ -260,7 +260,7 @@
 <https://github.com/e332ac55-042b-4816-b8c4-c71ea98cfb25> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Task> "task" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/e332ac55-042b-4816-b8c4-c71ea98cfb25> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#TaskAuthor> "neuerName69" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/e332ac55-042b-4816-b8c4-c71ea98cfb25> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "neuesBoard69" <https://github.com/fxj9a/kbb/tree/master/store> .
-<https://github.com/e332ac55-042b-4816-b8c4-c71ea98cfb25> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onColumn> "A TODO" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/e332ac55-042b-4816-b8c4-c71ea98cfb25> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onColumn> "1 TODO" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/e5bcf83f-7b6e-42cd-8a9b-5d580d6fdc04> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "moppel" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/e5bcf83f-7b6e-42cd-8a9b-5d580d6fdc04> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Column> "archive" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/e5bcf83f-7b6e-42cd-8a9b-5d580d6fdc04> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "1 more board" <https://github.com/fxj9a/kbb/tree/master/store> .
