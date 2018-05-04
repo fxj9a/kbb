@@ -69,6 +69,9 @@
 <https://github.com/2fc1196a-dc99-4bfc-8feb-847db4099bfe> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Column> "12345678" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/2fc1196a-dc99-4bfc-8feb-847db4099bfe> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "adrians Board" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/354760b9-a64e-450c-bc5a-64987305d847> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#User> "adrian" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/3757d166-c61b-45ec-8749-09d0d466c6d8> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "neuerName69" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/3757d166-c61b-45ec-8749-09d0d466c6d8> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Column> "Column 32103212e1" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/3757d166-c61b-45ec-8749-09d0d466c6d8> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "neuesBoard69" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/37724b14-d753-4145-9153-2c84f34e4f38> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "aMOPel" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/37724b14-d753-4145-9153-2c84f34e4f38> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Column> "archive" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/37724b14-d753-4145-9153-2c84f34e4f38> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "adrians Board" <https://github.com/fxj9a/kbb/tree/master/store> .
