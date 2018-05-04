@@ -27,6 +27,9 @@
 <https://github.com/0ed4bc44-8ec9-44ff-9e55-997143bf67f5> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#TaskAuthor> "hh" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/0ed4bc44-8ec9-44ff-9e55-997143bf67f5> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "ghg" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/0ed4bc44-8ec9-44ff-9e55-997143bf67f5> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onColumn> "jjhh" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/11597de9-5a25-449f-ab10-2b9cfec2c199> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "neuerName69" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/11597de9-5a25-449f-ab10-2b9cfec2c199> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Column> "2 DOING" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/11597de9-5a25-449f-ab10-2b9cfec2c199> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "neuesBoard69" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/13ad4dbb-bbb9-4b96-91b5-6eed4cad1918> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "aMOPel" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/13ad4dbb-bbb9-4b96-91b5-6eed4cad1918> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Column> "archive" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/13ad4dbb-bbb9-4b96-91b5-6eed4cad1918> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "12345678" <https://github.com/fxj9a/kbb/tree/master/store> .
