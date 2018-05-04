@@ -278,9 +278,6 @@
 <https://github.com/ef4f662d-7df4-444f-af82-ef1694ffe99b> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "aMOPel" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/ef4f662d-7df4-444f-af82-ef1694ffe99b> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Column> "new col (:" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/ef4f662d-7df4-444f-af82-ef1694ffe99b> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "adrians Board" <https://github.com/fxj9a/kbb/tree/master/store> .
-<https://github.com/f07ddc28-316f-42fb-89ad-9131531c4f45> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "neuerName69" <https://github.com/fxj9a/kbb/tree/master/store> .
-<https://github.com/f07ddc28-316f-42fb-89ad-9131531c4f45> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Column> "B DOING" <https://github.com/fxj9a/kbb/tree/master/store> .
-<https://github.com/f07ddc28-316f-42fb-89ad-9131531c4f45> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "neuesBoard69" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/f1cb843e-7b96-48ee-8371-4475f8527f56> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "moppel" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/f1cb843e-7b96-48ee-8371-4475f8527f56> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Column> "Mr meeseeks" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/f1cb843e-7b96-48ee-8371-4475f8527f56> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "new board look at me" <https://github.com/fxj9a/kbb/tree/master/store> .
