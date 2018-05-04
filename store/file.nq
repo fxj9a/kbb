@@ -24,9 +24,6 @@
 <https://github.com/084b3fbc-fdf5-42b6-9bfa-d5bbe70c02be> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#TaskAuthor> "moppel" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/084b3fbc-fdf5-42b6-9bfa-d5bbe70c02be> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "new board look at me" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/084b3fbc-fdf5-42b6-9bfa-d5bbe70c02be> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onColumn> "mr. poopy butthole" <https://github.com/fxj9a/kbb/tree/master/store> .
-<https://github.com/0ccab136-ad2d-412c-8f92-be4d507572ee> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Board> "new board look at me" <https://github.com/fxj9a/kbb/tree/master/store> .
-<https://github.com/0ccab136-ad2d-412c-8f92-be4d507572ee> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "moppel" <https://github.com/fxj9a/kbb/tree/master/store> .
-<https://github.com/0ccab136-ad2d-412c-8f92-be4d507572ee> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#UserAllowed> "moppel" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/0ed4bc44-8ec9-44ff-9e55-997143bf67f5> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "hh" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/0ed4bc44-8ec9-44ff-9e55-997143bf67f5> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Description> "dfdf" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/0ed4bc44-8ec9-44ff-9e55-997143bf67f5> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Priority> "2" <https://github.com/fxj9a/kbb/tree/master/store> .
