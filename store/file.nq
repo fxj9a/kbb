@@ -99,7 +99,7 @@
 <https://github.com/39375da6-8659-4b72-9f36-486ff677199f> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Task> "task" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/39375da6-8659-4b72-9f36-486ff677199f> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#TaskAuthor> "natanael" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/39375da6-8659-4b72-9f36-486ff677199f> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onBoard> "board für natanael" <https://github.com/fxj9a/kbb/tree/master/store> .
-<https://github.com/39375da6-8659-4b72-9f36-486ff677199f> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onColumn> "col" <https://github.com/fxj9a/kbb/tree/master/store> .
+<https://github.com/39375da6-8659-4b72-9f36-486ff677199f> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#onColumn> "col2" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/3c578bc1-4bfb-46bc-8baf-e580389b356e> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#Board> "moppels board" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/3c578bc1-4bfb-46bc-8baf-e580389b356e> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#BoardAuthor> "moppel" <https://github.com/fxj9a/kbb/tree/master/store> .
 <https://github.com/3c578bc1-4bfb-46bc-8baf-e580389b356e> <https://github.com/fxj9a/kbb/tree/master/vocab/vocab.ttl#UserAllowed> "aMOPel" <https://github.com/fxj9a/kbb/tree/master/store> .
